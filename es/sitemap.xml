@@ -8,11 +8,6 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://vschwerdt.github.io/web_weeding/de/blog/"
                 />
@@ -65,11 +60,6 @@
     <loc>https://vschwerdt.github.io/web_weeding/es/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/about/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -162,11 +152,6 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://vschwerdt.github.io/web_weeding/de/blog/post-1/"
                 />
@@ -179,11 +164,6 @@
     <loc>https://vschwerdt.github.io/web_weeding/es/blog/post-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/blog/post-2/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
