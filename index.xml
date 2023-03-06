@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaime RV</title>
-    <link>https://vschwerdt.github.io/web/</link>
+    <link>https://vschwerdt.github.io/web_weeding/</link>
     <description>Recent content on Jaime RV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web_weeding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects_2</title>
-      <link>https://vschwerdt.github.io/web/projects_2/</link>
+      <link>https://vschwerdt.github.io/web_weeding/projects_2/</link>
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/projects_2/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/projects_2/</guid>
       <description>Projects are paginated with only three posts here for example. You can set the number of entries to show on this page with the &amp;ldquo;pagination&amp;rdquo; setting in the config file.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://vschwerdt.github.io/web/contact/</link>
+      <link>https://vschwerdt.github.io/web_weeding/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/contact/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/contact/</guid>
       <description>Feel free to write me with any suggestion, question, remark, &amp;hellip;
 Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
     <item>
       <title>Project I: Plotly (no Dash) deployed in website</title>
-      <link>https://vschwerdt.github.io/web/projects/project-1/</link>
+      <link>https://vschwerdt.github.io/web_weeding/projects/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/projects/project-1/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/projects/project-1/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project II: Streamlit deployed in website</title>
-      <link>https://vschwerdt.github.io/web/projects/project-2/</link>
+      <link>https://vschwerdt.github.io/web_weeding/projects/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/projects/project-2/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/projects/project-2/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project III: DASH Plotly deployed in website</title>
-      <link>https://vschwerdt.github.io/web/projects/project-3/</link>
+      <link>https://vschwerdt.github.io/web_weeding/projects/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/projects/project-3/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/projects/project-3/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project IV: Dash for SA Stocker</title>
-      <link>https://vschwerdt.github.io/web/projects/project-4/</link>
+      <link>https://vschwerdt.github.io/web_weeding/projects/project-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/projects/project-4/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/projects/project-4/</guid>
       <description>Work in Progress</description>
     </item>
     
     <item>
       <title>sdfsdfsdf</title>
-      <link>https://vschwerdt.github.io/web/blog/post-1/</link>
+      <link>https://vschwerdt.github.io/web_weeding/blog/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/blog/post-1/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/blog/post-1/</guid>
       <description>asdasdasd</description>
     </item>
     
     <item>
       <title>sdfsdfsdf</title>
-      <link>https://vschwerdt.github.io/web/blog/post-2/</link>
+      <link>https://vschwerdt.github.io/web_weeding/blog/post-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/blog/post-2/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/blog/post-2/</guid>
       <description>asdasdasd</description>
     </item>
     

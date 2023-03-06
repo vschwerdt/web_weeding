@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mon blogue</title>
-    <link>https://vschwerdt.github.io/web/de/projects/</link>
+    <link>https://vschwerdt.github.io/web_weeding/de/projects/</link>
     <description>Recent content in Projects on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web_weeding/de/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I: Plotly (no Dash) deployed in website</title>
-      <link>https://vschwerdt.github.io/web/de/projects/project-1/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/de/projects/project-1/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-1/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project II: Streamlit deployed in website</title>
-      <link>https://vschwerdt.github.io/web/de/projects/project-2/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/de/projects/project-2/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-2/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project III: DASH Plotly deployed in website</title>
-      <link>https://vschwerdt.github.io/web/de/projects/project-3/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/de/projects/project-3/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-3/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Project IV: Dash for SA Stocker</title>
-      <link>https://vschwerdt.github.io/web/de/projects/project-4/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web/de/projects/project-4/</guid>
+      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-4/</guid>
       <description>Work in Progress</description>
     </item>
     
