@@ -2,175 +2,293 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vschwerdt.github.io/es/blog/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vschwerdt.github.io/es/</loc>
+    <loc>https://vschwerdt.github.io/web/es/blog/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/"
+                href="https://vschwerdt.github.io/web/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/"
+                href="https://vschwerdt.github.io/web/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/"
+                href="https://vschwerdt.github.io/web/es/blog/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/updates/</loc>
+    <loc>https://vschwerdt.github.io/web/es/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/updates/"
+                href="https://vschwerdt.github.io/web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/updates/"
+                href="https://vschwerdt.github.io/web/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/updates/"
+                href="https://vschwerdt.github.io/web/es/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vschwerdt.github.io/es/categories/</loc>
+    <loc>https://vschwerdt.github.io/web/es/projects/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/categories/"
+                href="https://vschwerdt.github.io/web/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/categories/"
+                href="https://vschwerdt.github.io/web/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/categories/"
+                href="https://vschwerdt.github.io/web/es/projects/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/contact/</loc>
+    <loc>https://vschwerdt.github.io/web/es/projects_2/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/contact/"
+                href="https://vschwerdt.github.io/web/projects_2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/contact/"
+                href="https://vschwerdt.github.io/web/de/projects_2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/contact/"
+                href="https://vschwerdt.github.io/web/es/projects_2/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/updates/locations/</loc>
+    <loc>https://vschwerdt.github.io/web/es/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/updates/locations/"
+                href="https://vschwerdt.github.io/web/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/updates/locations/"
+                href="https://vschwerdt.github.io/web/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/updates/locations/"
+                href="https://vschwerdt.github.io/web/es/about/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/updates/schedule/</loc>
+    <loc>https://vschwerdt.github.io/web/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/updates/schedule/"
+                href="https://vschwerdt.github.io/web/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/updates/schedule/"
+                href="https://vschwerdt.github.io/web/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/updates/schedule/"
+                href="https://vschwerdt.github.io/web/es/categories/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/blog/post-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vschwerdt.github.io/es/blog/post-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vschwerdt.github.io/es/tags/</loc>
+    <loc>https://vschwerdt.github.io/web/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/tags/"
+                href="https://vschwerdt.github.io/web/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/tags/"
+                href="https://vschwerdt.github.io/web/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/tags/"
+                href="https://vschwerdt.github.io/web/es/contact/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/es/updates/sleep/</loc>
+    <loc>https://vschwerdt.github.io/web/es/projects/project-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/updates/sleep/"
+                href="https://vschwerdt.github.io/web/projects/project-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/de/updates/sleep/"
+                href="https://vschwerdt.github.io/web/de/projects/project-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/es/updates/sleep/"
+                href="https://vschwerdt.github.io/web/es/projects/project-1/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/projects/project-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/projects/project-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/projects/project-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/projects/project-2/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/projects/project-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/projects/project-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/projects/project-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/projects/project-3/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/projects/project-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/projects/project-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/projects/project-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/projects/project-4/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/blog/post-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/blog/post-1/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/blog/post-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/blog/post-2/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/tags/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web/es/tags/visualization/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web/tags/visualization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web/de/tags/visualization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web/es/tags/visualization/"
                 />
   </url>
 </urlset>
