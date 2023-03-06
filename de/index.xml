@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web_weeding/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects_2</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/projects_2/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/projects_2/</guid>
-      <description>Projects are paginated with only three posts here for example. You can set the number of entries to show on this page with the &amp;ldquo;pagination&amp;rdquo; setting in the config file.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://vschwerdt.github.io/web_weeding/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,42 +38,6 @@ Where to fly to? Leipzig Airport (LEJ) is the closest airport. From there you ca
 How to get to the City Hall? info here
 Polterabend post wedding info here
 How to get to the Polterabend? info here</description>
-    </item>
-    
-    <item>
-      <title>Project I: Plotly (no Dash) deployed in website</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-1/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Project II: Streamlit deployed in website</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-2/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Project III: DASH Plotly deployed in website</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-3/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Project IV: Dash for SA Stocker</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/projects/project-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/projects/project-4/</guid>
-      <description>Work in Progress</description>
     </item>
     
     <item>
